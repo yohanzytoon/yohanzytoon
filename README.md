@@ -48,8 +48,8 @@
 <a href="https://github.com/yohanzytoon/face-detection-system">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanzytoon&repo=face-detection-system&theme=react&hide_border=true" />
 </a>
-<a href="https://github.com/yohanzytoon/FraudDetectionV1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanzytoon&repo=FraudDetectionV1&theme=react&hide_border=true" />
+<a href="https://github.com/yohanzytoon/DeepChainDetect">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanzytoon&repo=DeepChainDetect&theme=react&hide_border=true" />
 </a>
 
 <a href="https://github.com/yohanzytoon/resumeAI">
