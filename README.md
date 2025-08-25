@@ -5,8 +5,11 @@
 ## 🎓 Mathematics & Computer Science Student
 
 - 🔭 I'm currently working on **Machine Learning and Data Science projects**
-- 🌱 I'm currently learning **Graph Neural Networks & Deep Learning**
-- 💼 Previously worked as a **Financial Services Associate at CIBC**
+- 🌱 I'm currently learning **Deep Learning & Quant Finance** 
+- 💼 Incoming **Data Scientist (Intern)** at **Desjardins Assurances générales** — **Sep–Dec 2025**
+- 🧭 Previously **Business Intelligence (BI) Intern** at **BRP** — **May–Aug 2025**
+- 💼 Previously **Financial Services Associate** at **CIBC**
+- 📚 **CFA® Program — Level I Candidate (Exam: Feb 2026)**
 - 🥋 Blue belt in **Brazilian Jiu-Jitsu**
 - 📍 Based in **Montréal, Québec**
 
@@ -15,6 +18,8 @@
 </p>
 
 ## 💻 Tech Stack
+
+> I’m actively learning and improving these tools over time.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -55,6 +60,7 @@
 <a href="https://github.com/yohanzytoon/resumeAI">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanzytoon&repo=resumeAI&theme=react&hide_border=true" />
 </a>
+
 <a href="https://github.com/yohanzytoon/TradingDashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yohanzytoon&repo=TradingDashboard&theme=react&hide_border=true" />
 </a>
@@ -71,12 +77,12 @@
 </p>
 
 ## 🔎 Areas of Interest
-- 🧠 AI in Finance
-- 🏥 AI in Healthcare
-- 🤖 Reinforcement Learning
-- 📈 Time Series Analysis
-- 👁️ Computer Vision
-- 🧮 Deep Learning (GNN, Transformers, RNN)
+- 🧠 AI in Finance *(learning & exploring)*
+- 🏥 AI in Healthcare *(learning)*
+- 🤖 Reinforcement Learning *(learning)*
+- 📈 Time Series Analysis *(learning)*
+- 👁️ Computer Vision *(learning)*
+- 🧮 Deep Learning (GNN, Transformers, RNN) *(learning)*
 
 ---
 
