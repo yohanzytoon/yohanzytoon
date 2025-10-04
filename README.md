@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Machine Learning and Data Science projects**
 - 🌱 I'm currently learning **Deep Learning & Quant Finance** 
-- 💼 Incoming **Data Scientist (Intern)** at **Desjardins Assurances générales** — **Sep–Dec 2025**
+- 💼 **Data Scientist (Intern)** at **Desjardins Assurances générales** — **Sep–Dec 2025**
 - 🧭 Previously **Business Intelligence (BI) Intern** at **BRP** — **May–Aug 2025**
 - 💼 Previously **Financial Services Associate** at **CIBC**
 - 📚 **CFA® Program — Level I Candidate (Exam: Feb 2026)**
