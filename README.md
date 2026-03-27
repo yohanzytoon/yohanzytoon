@@ -5,11 +5,10 @@
 ## 🎓 Mathematics & Computer Science Student
 
 - 🔭 I'm currently working on **Machine Learning and Data Science projects**
-- 🌱 I'm currently learning **Deep Learning & Quant Finance** 
-- 💼 **Data Scientist (Intern)** at **Desjardins Assurances générales** — **Sep–Dec 2025**
-- 🧭 Previously **Business Intelligence (BI) Intern** at **BRP** — **May–Aug 2025**
+- 🌱 I'm currently learning **Generative Models & Robotics** 
+- 💼 **Data Scientist I (Incoming internship)** at **Intact** — **May–Aug 2026**
+- 🧭 Previously **Data Scientist Intern** at **Desjardins** and **Business Intelligence (BI) Intern** at **BRP** — **May–Aug 2025**
 - 💼 Previously **Financial Services Associate** at **CIBC**
-- 📚 **CFA® Program — Level I Candidate (Exam: Feb 2026)**
 - 🥋 Blue belt in **Brazilian Jiu-Jitsu**
 - 📍 Based in **Montréal, Québec**
 
@@ -78,11 +77,9 @@
 
 ## 🔎 Areas of Interest
 - 🧠 AI in Finance *(learning & exploring)*
-- 🏥 AI in Healthcare *(learning)*
-- 🤖 Reinforcement Learning *(learning)*
-- 📈 Time Series Analysis *(learning)*
-- 👁️ Computer Vision *(learning)*
-- 🧮 Deep Learning (GNN, Transformers, RNN) *(learning)*
+- 🤖 Reinforcement Learning & Optimal control for robotics
+- 👁️ Perception & Computer vision 
+- 🧮 Generative Models (GFlowNet, Diffusion Models)
 
 ---
 
