@@ -9,7 +9,7 @@
 - 💼 Incoming **Data Scientist I (DataLab)** @ **Intact Financial Corporation** — *May–Aug 2026*
 - 🧠 Former **Data Scientist (Advanced Analytics)** @ **Desjardins**
 - 📊 Former **Business Intelligence Intern** @ **BRP**
-- ⚙️ Interested in **ML Systems, Market Microstructure & Scalable AI**
+- ⚙️ Interested in **ML Systems & Scalable AI**
 - 📍 Based in **Montréal, Québec**
 
 ---
