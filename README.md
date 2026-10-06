@@ -1,31 +1,45 @@
+<div align="center">
+
 # Yohan Zytoon
 
-Applied AI / ML Engineer at Intact Financial, where I build production LLM agent workflows and evaluation systems. I study computer science at Université de Montréal (B.Sc. expected December 2026), with a focus on research engineering and ML systems.
+**Applied AI / ML Engineer · Intact Financial**
 
-## Current focus
+Production AI systems, rigorous evaluation, and research engineering.
 
-- Production agents: retrieval, tool use, and stateful workflows
-- Evaluation: reproducible experiments, structured-output quality, run-to-run stability, and failure analysis
-- Research engineering: probabilistic ML, active learning, and optimization under limited compute or query budgets
+[Website](https://yohanzytoon.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/yohanzytoon) &nbsp;·&nbsp; [Email](mailto:yohanze@icloud.com) &nbsp;·&nbsp; [CV](https://yohanzytoon.com/files/cv_yohan_zytoon.pdf)
 
-## Selected projects
+</div>
 
-### [VeroLoop](https://yohanzytoon.com/projects/veroloop)
+---
 
-A provider-neutral framework for evaluating structured AI tasks across model candidates. It supports typed outputs, correctness and schema metrics, repeated-run stability, latency and cost measurement, asynchronous execution, retries, normalized errors, and MLflow reporting.
+I build LLM agent workflows and evaluation systems at Intact Financial. I’m completing a B.Sc. in Computer Science at Université de Montréal (December 2026), with a focus on ML systems, probabilistic methods, and optimization.
 
-### [GFN-AL](https://github.com/yohanzytoon/GFN-AL)
+## Focus
 
-Research on combinatorial search over an approximately 8-billion-state space with a 1,000-query oracle budget. Compares Gaussian Process + UCB active learning, a direct GFlowNet baseline, and a hybrid approach using PyTorch, BoTorch, GPyTorch, and Hydra, with multi-seed evaluation. Across five-seed experiments, classical active learning achieved 3.7× the valid-generation rate of direct GFlowNet training.
+**Applied AI** — Retrieval, tool use, and stateful agent workflows<br>
+**Evaluation** — Reproducibility, structured-output quality, stability, and failure analysis<br>
+**Research engineering** — Probabilistic ML and search under limited query budgets
 
-### [LOBSimulator](https://github.com/yohanzytoon/LOBSimulater)
+## Selected work
 
-A C++17 limit-order-book and matching-engine project with price-time priority, memory pooling, event-driven backtesting, Python bindings, and latency/throughput benchmarks.
+### [VeroLoop](https://yohanzytoon.com/projects/veroloop) · AI evaluation
 
-## Next systems project
+Provider-neutral evaluation for structured AI tasks. Measures correctness, schema validity, repeated-run stability, latency, and cost; supports async execution, retries, normalized errors, and MLflow reporting.
 
-I’m exploring LLM inference and serving for open-weight models: asynchronous scheduling, continuous batching, KV-cache behavior, token streaming, backpressure, and latency/throughput trade-offs.
+### [GFN-AL](https://github.com/yohanzytoon/GFN-AL) · Research engineering
 
-## Links
+Combinatorial search across **~8B states** with a **1,000-query oracle budget**. Compares GP + UCB active learning, direct GFlowNet training, and a hybrid approach using PyTorch, BoTorch, GPyTorch, and Hydra.
 
-[Website](https://yohanzytoon.com) · [LinkedIn](https://linkedin.com/in/yohanzytoon) · [Email](mailto:yohanze@icloud.com) · [CV](https://yohanzytoon.com/files/cv_yohan_zytoon.pdf)
+Across five-seed experiments, classical active learning achieved **3.7× the valid-generation rate** of direct GFlowNet training.
+
+### [Limit order book simulator](https://github.com/yohanzytoon/LOBSimulater) · C++ systems
+
+C++17 matching engine with price-time priority, memory pooling, event-driven backtesting, Python bindings, and latency/throughput benchmarks.
+
+## On the roadmap
+
+LLM inference and serving for open-weight models: async scheduling, continuous batching, KV-cache behavior, token streaming, backpressure, and latency/throughput trade-offs.
+
+---
+
+**Université de Montréal** · B.Sc. Computer Science, expected December 2026
